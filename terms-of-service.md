@@ -27,6 +27,16 @@ We grant you a personal, non-transferable, non-exclusive license to use Rise on 
 - No refunds are issued for partial subscription periods, except as required by law. Refund requests for the full period must go through Apple ([reportaproblem.apple.com](https://reportaproblem.apple.com)).
 - Free trials, if offered, automatically convert to paid subscriptions at the end of the trial unless you cancel before the trial ends.
 
+### What Premium unlocks
+
+The free tier includes one alarm and the **Calm Coach** persona. A Premium subscription unlocks:
+
+- Unlimited alarms
+- All three AI personas (Calm Coach, Hype Friend, Drill Sergeant)
+- Insights — your morning patterns broken down
+- Streak history beyond 30 days
+- Priority voice generation
+
 ## 4. What Rise is NOT
 
 - Rise is not a medical device, sleep tracker, or mental health service.
@@ -67,4 +77,4 @@ These terms are governed by the laws of the Republic of Türkiye. Disputes shall
 
 ## 11. Contact
 
-terms@rise-app.com
+support@rise-app.com
