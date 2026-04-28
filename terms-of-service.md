@@ -77,4 +77,4 @@ These terms are governed by the laws of the Republic of Türkiye. Disputes shall
 
 ## 11. Contact
 
-support@rise-app.com
+benisamercan@gmail.com

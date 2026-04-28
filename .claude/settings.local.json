@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /Users/isa.mercan/Git/rise-legal stash push -m \"rise-content-edits\")",
+      "Bash(git -C /Users/isa.mercan/Git/rise-legal pull --rebase)",
+      "Bash(git -C /Users/isa.mercan/Git/rise-legal stash pop)",
+      "Bash(git *)",
+      "Bash(gh api *)",
+      "Bash(curl *)",
+      "Bash(gh auth *)"
+    ]
+  }
+}

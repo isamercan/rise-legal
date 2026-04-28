@@ -47,12 +47,12 @@ We do not sell your data. We do not share data with advertisers.
 ## 4. Your rights
 
 - **Delete everything**: uninstall the app. All on-device data is removed.
-- **Export your data**: not currently supported in v1.0 — email support@rise-app.com to request.
-- **GDPR, CCPA, PIPEDA, LGPD, KVKK**: residents of those jurisdictions can request access, correction, or erasure by emailing support@rise-app.com. We respond within 30 days.
+- **Export your data**: not currently supported in v1.0 — email benisamercan@gmail.com to request.
+- **GDPR, CCPA, PIPEDA, LGPD, KVKK**: residents of those jurisdictions can request access, correction, or erasure by emailing benisamercan@gmail.com. We respond within 30 days.
 
 ## 5. Children
 
-Rise is rated 4+ but is not directed at children under 13. We do not knowingly collect data from children. If you believe a child has provided data, email support@rise-app.com and we will delete it.
+Rise is rated 4+ but is not directed at children under 13. We do not knowingly collect data from children. If you believe a child has provided data, email benisamercan@gmail.com and we will delete it.
 
 ## 6. Security
 
@@ -66,7 +66,7 @@ We may update this policy. The "effective date" above will reflect the latest re
 
 ## 8. Contact
 
-support@rise-app.com
+benisamercan@gmail.com
 
 İsa Mercan
 İstanbul, Türkiye

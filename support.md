@@ -9,7 +9,7 @@ Need help? We'd love to hear from you.
 
 ## Contact
 
-**Email:** support@rise-app.com
+**Email:** benisamercan@gmail.com
 **Response time:** within 48 hours
 
 ## Common questions
@@ -48,4 +48,4 @@ A "streak day" is a day on which you completed a wake-up conversation (alarm fir
 Settings → Privacy & Security → Health → Rise → ensure "Sleep Analysis" read access is on. The first time data appears can take 24-48h after granting permission, depending on what your sleep tracker writes to HealthKit.
 
 ### Türkçe destek
-support@rise-app.com adresine Türkçe de yazabilirsin — 48 saat içinde dönüş yaparız.
+benisamercan@gmail.com adresine Türkçe de yazabilirsin — 48 saat içinde dönüş yaparız.

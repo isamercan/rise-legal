@@ -8,4 +8,4 @@ permalink: /
 - [Terms of Use](/rise-legal/terms/)
 - [Support](/rise-legal/support/)
 
-Questions: support@rise-app.com
+Questions: benisamercan@gmail.com
