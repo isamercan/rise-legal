@@ -1,7 +1,11 @@
-# FastUGC — Legal
+---
+permalink: /
+---
 
-- [Privacy Policy](privacy-policy)
-- [Terms of Service](terms-of-service)
-- [Support](support)
+# Rise — Legal
 
-Questions: support@fastugc.app
+- [Privacy Policy](/rise-legal/privacy/)
+- [Terms of Use](/rise-legal/terms/)
+- [Support](/rise-legal/support/)
+
+Questions: support@rise-app.com
